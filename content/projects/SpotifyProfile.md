@@ -10,4 +10,4 @@ tech:
 showInProjects: false
 ---
 
-A web app for visualizing personalized Spotify data. View your
+A web app for personalized Spotify data. View your

@@ -1,15 +1,13 @@
 ---
-date: '2'
-title: 'Spotify'
+date: '1'
+title: 'Morpion'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'hhttps://github.com/Mrneyestani/Morpion'
+external:
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Java
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Morpion console game.
+
+The game grid is represented as a 2-dimensional Array containing characters. Character 'O' represents player O, character 'X' represents player X.
