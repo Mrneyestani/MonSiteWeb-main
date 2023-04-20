@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Car rental website
+A car rental website

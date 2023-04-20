@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://github.com/Mrneyestani/MonSiteWeb-main/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  mrneyestani.com - v1
+  mrneyestani.fr - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://mrneyestani.com" target="_blank">mrneyestani.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The first iteration of <a href="https://mrneyestani.fr" target="_blank">mrneyestani.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
 
