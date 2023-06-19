@@ -132,9 +132,11 @@ const About = () => {
     'React Native',
     'Node.js',
     'WordPress',
-    'Java',
+    'Java (JSF, Hibernate)',
+    'PHP',
     'Mongo DB',
     'SQL',
+    'Architecture MVC',
   ];
 
   return (

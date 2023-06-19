@@ -3,7 +3,7 @@ date: '2023-09-06'
 title: 'Creative Tech School'
 company: 'Doranco'
 location: 'Paris, FR'
-range: 'January - September 2023'
+range: 'January - june 2023'
 url: 'https://www.doranco.fr//'
 ---
 
