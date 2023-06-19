@@ -64,7 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
-      <p>I am a web and mobile full-stack developer, Currently, I'm looking for a jop.</p>
+      <p>I am a full-stack developer and I'm currently looking for a job.</p>
     </>
   );
   // const five = (
