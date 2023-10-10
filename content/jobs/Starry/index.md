@@ -1,21 +1,15 @@
 ---
+date: '2023-09-06'
 
-date: '2011-12-21'
+title: 'Stage'
 
-# title: 'Software Engineer Co-op'
+company: 'Jonam'
 
-# company: 'Starry'
+location: 'Lyon'
 
-# location: 'Boston, MA'
-
-# range: 'July - December 2016'
-
+range: 'Juin - Septembre 2023'
 # url: 'https://starry.com/'
+---
 
-# ---
-
-# - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-
-# - Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-
-# - Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Au sein de Jonam, j’ai eu l’occasion de travailler sur un site projet E-Commerce en Java EE, (JSF, Hibernate, My SQL,) dans le cadred’une amélioration du site à la demande du client.
+  Création d’un site d’annonce en React avec Mongo Db.
