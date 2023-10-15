@@ -7,9 +7,9 @@ company: 'Jonam'
 
 location: 'Lyon'
 
-range: 'Juin - Septembre 2023'
+range: 'June - September 2023'
 # url: 'https://starry.com/'
 ---
 
-- Au sein de Jonam, j’ai eu l’occasion de travailler sur un site projet E-Commerce en Java EE, (JSF, Hibernate, My SQL,) dans le cadred’une amélioration du site à la demande du client.
-  Création d’un site d’annonce en React avec Mongo Db.
+- In Jonam, I had the opportunity to work on an E-Commerce project website in Java EE (JSF, Hibernate, MySQL) as part of an improvement to the site at the client's request.
+  I also created an announcements website in React with MongoDB
