@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Petites annonces'
+title: 'Petites Annonces'
 cover: './Accueil.png'
 github: 'https://github.com/Mrneyestani/Petitesannonces.git'
 external:
@@ -9,6 +9,6 @@ tech:
   - React
 ---
 
-Petites annonces
+Petites Annonces
 
 Web application for classified ads.
