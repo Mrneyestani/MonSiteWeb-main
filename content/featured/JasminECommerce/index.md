@@ -2,7 +2,7 @@
 date: '1'
 title: 'Jasmin E-commerce'
 cover: './Commande.png'
-# github: 'https://github.com/Mrneyestani/Cocktail-Searchd'
+github: 'https://github.com/Mrneyestani/Jasmin.git'
 external: ''
 cta: ''
 tech:
