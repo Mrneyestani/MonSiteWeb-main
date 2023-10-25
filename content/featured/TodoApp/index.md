@@ -1,15 +1,15 @@
 ---
-date: '2'
+date: '3'
 title: 'Super Todo App'
-cover: './demoAppPages.png'
+cover: './AppPages.png'
 github: 'https://github.com/Mrneyestani/SuperTodoApp_ReactNative.git'
 external:
 tech:
   - JavaScript
   - React-Native
-  - Styled Components
+  - StyledComponents
   - Nanostores
-  - React Router
+  - ReactRouter
   - Firebase
 ---
 

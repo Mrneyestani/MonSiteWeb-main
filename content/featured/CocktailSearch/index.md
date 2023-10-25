@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '6'
 title: 'CocktailSearch'
 cover: './CocktailSearch.png'
 github: 'https://github.com/Mrneyestani/Cocktail-Searchd'
