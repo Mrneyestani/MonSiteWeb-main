@@ -1,11 +1,13 @@
 ---
-date: '2'
+date: '3'
 title: 'CocktailSearch'
-cover: './course-card.png'
+cover: './CocktailSearch.png'
 github: 'https://github.com/Mrneyestani/Cocktail-Searchd'
 external: ''
 cta: ''
 tech:
+  - HTML
+  - CSS
   - Javascript
   - Parcel
 ---

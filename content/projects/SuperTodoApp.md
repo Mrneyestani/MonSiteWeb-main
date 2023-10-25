@@ -1,15 +1,15 @@
 ---
 date: '2020-01-10'
-title: 'SuperTodoApp'
-github: 'https://github.com/Mrneyestani/SuperTodoApp_Native'
+title: 'Morpion'
+github: 'https://github.com/Mrneyestani/Morpion.git'
 external: ''
 tech:
-  - React Native
-  - TypeScript
-  - Firebase
-  - Nanostores
+  - Java
+
 company: ''
 showInProjects: true
 ---
 
-The objective of the application is simple, to be able to manage things to do!
+Morpion console game.
+
+The game grid is represented as a 2-dimensional Array containing characters. Character 'O' represents player O, character 'X' represents player X.

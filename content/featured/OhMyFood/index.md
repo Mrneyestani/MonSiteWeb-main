@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '4'
 title: 'Ohmyfood'
-cover: './halcyon.png'
+cover: './OhMyFood.png'
 github: 'https://github.com/Mrneyestani/OhMyFood'
 external: ''
 tech:

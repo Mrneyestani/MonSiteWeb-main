@@ -12,7 +12,7 @@ tech:
   - Maven
   - MY-SQL
   - JSF
-  - Apach Tomcat
+  - Apach
 ---
 
 Jasmin E-Commerce
