@@ -108,7 +108,7 @@ const Footer = () => {
         <a href="https://github.com/Mrneyestani/MonSiteWeb-main">
           <div>Adaptation and personalization by Reza Neyestani - </div>
         </a>
-        <a href="https://github.com/bchiang7/v4">
+        <a href="">
           <div>Website template by Brittany Chiang</div>
 
           {/* {githubInfo.stars && githubInfo.forks && (
