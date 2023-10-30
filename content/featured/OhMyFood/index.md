@@ -3,7 +3,7 @@ date: '5'
 title: 'Ohmyfood'
 cover: './OhMyFood.png'
 github: 'https://github.com/Mrneyestani/OhMyFood'
-external: ''
+external: 'https://mrneyestani.github.io/OhMyFood/'
 tech:
   - HTML
   - CSS
