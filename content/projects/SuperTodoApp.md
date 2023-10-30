@@ -11,5 +11,3 @@ showInProjects: true
 ---
 
 Morpion console game.
-
-The game grid is represented as a 2-dimensional Array containing characters. Character 'O' represents player O, character 'X' represents player X.
