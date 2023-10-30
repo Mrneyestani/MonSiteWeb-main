@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Jasmin E-commerce'
-cover: './Commande.png'
+cover: './pageAccueil.png'
 github: 'https://github.com/Mrneyestani/Jasmin.git'
 external: ''
 cta: ''
