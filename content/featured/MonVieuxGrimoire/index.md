@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Mon Vieux Grimoire'
-cover: './Accueil.png'
+cover: './MonVieuxGrimoire.png'
 github: 'https://github.com/Mrneyestani/LeVieuxGrimoire.git'
 external:
 tech:
