@@ -190,6 +190,7 @@ const Projects = () => {
     }
   `);
 
+  // eslint-disable-next-line no-unused-vars
   const [showMore, setShowMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
